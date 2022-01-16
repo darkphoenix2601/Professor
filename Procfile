@@ -1,1 +1,1 @@
-worker: python3 -m Raiden
+worker: python3 -m Professor
